@@ -1,0 +1,17 @@
+.jumbotron {
+  background-color: lightgray;
+  padding-top: 6rem;
+}
+
+#galery {
+  background-color: lightgray;
+}
+
+footer {
+  background-color: lightgray;
+  height: 50px;
+}
+
+section {
+  scroll-margin-top: 5rem;
+}
